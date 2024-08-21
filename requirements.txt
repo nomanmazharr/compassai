@@ -89,7 +89,7 @@ tbb==2021.13.1
 tenacity==8.5.0
 tokenizers==0.19.1
 toml==0.10.2
-torch==2.2.0
+torch
 tornado==6.4.1
 tqdm==4.66.5
 traitlets==5.14.3
